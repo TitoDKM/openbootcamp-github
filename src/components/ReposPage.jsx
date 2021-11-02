@@ -4,7 +4,7 @@ import RepoCommits from './RepoCommits';
 
 const fetchAuthArgs = {
     headers: {
-        'Authorization': 'token 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'
+        'Authorization': 'token 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'
     }
 }
 
