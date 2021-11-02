@@ -3,9 +3,6 @@ import { Button } from '@mui/material';
 import RepoCommits from './RepoCommits';
 
 const fetchAuthArgs = {
-    headers: {
-        'Authorization': 'token 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'
-    }
 }
 
 const ReposPage = ({user, reset}) => {
