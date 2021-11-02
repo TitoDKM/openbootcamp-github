@@ -37,3 +37,9 @@ ul {
   text-decoration: none;
   color: #fff;
 }
+
+.commitInfo {
+  font-size: 15px;
+  display: inline-block;
+  margin-right: 20px;
+}
